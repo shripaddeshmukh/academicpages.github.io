@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic4.jpg"
+  avatar           : "profile.jpg"
   name             : "Shripad Vilasrao Deshmukh"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student working on developing deployable decision-making AI agents"
+  bio              : "I work on designing deployable sequential decision-making AI"
   location         : # "Sunderland, MA"
-  employer         : "University of Massachusetts Amherst"
+  employer         : "UMass Amherst"
   uri              : # URL
   email            : "deshmukh.shripad.v@gmail.com" 
 
